@@ -1,0 +1,34 @@
+body {
+  font-family:Arial;
+  background-color: #f4f4f4;
+  padding: 30px;
+  color: #333;
+  background-image: url(https://img.freepik.com/free-photo/exploding-multi-colored-flame-creates-abstract-futuristic-design-generated-by-ai_188544-9861.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.app {
+  max-width: 600px;
+  margin: 0 auto 300px;
+  background-color: #efefef;
+  padding: 20px 30px;
+  border-radius: 10px;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 10 px 0;
+}
+
+input {
+  box-sizing: border-box;
+}
